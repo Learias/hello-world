@@ -2,4 +2,4 @@
 example
 
 
-Here I'm, trying to undestand this.
+Here I'm, trying to understand this.
